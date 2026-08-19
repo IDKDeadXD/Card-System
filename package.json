@@ -1,0 +1,11 @@
+{
+  "name": "war-tycoon-dex-card-system",
+  "version": "1.0.0",
+  "description": "Portable, Discord-free War Tycoon Dex weapon card generation SDK.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {},
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.74"
+  }
+}
